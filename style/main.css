@@ -219,6 +219,10 @@
     font-size: 2rem;
     font-weight: lighter;
   }
+
+  .nine img {
+    height: 50px;
+  }
   
   #replay {
     cursor: pointer;
